@@ -1,6 +1,6 @@
 # Código Final
 
-Esta pasta contém a versão final e estável do código da Chocadeira Automática.
+Esta pasta contém a versão final e estável até ver do código da Chocadeira Automática.
 
 Inclui:
 
