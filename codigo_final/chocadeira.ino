@@ -6,25 +6,9 @@
 #include <ESP32Servo.h>
 #include <RTClib.h>
 
-/*
-  CHOCADEIRA AUTOMÁTICA - ESP32 NODEMCU-32
-
-  FUNÇÕES:
-  - Menu por botões
-  - Presets de incubação
-  - LCD I2C 16x2
-  - RTC DS3231
-  - DHT22
-  - Servo de viragem
-  - 2 relés de aquecimento
-  - Controlo de humidificador por pulso
-  - Página web para telemóvel
-
-*/
-
 // ===================== WIFI =====================
-const char* WIFI_SSID = "Pixel";
-const char* WIFI_PASS = "Ricardo200815";
+const char* WIFI_SSID = "A_TUA_INTERNET";
+const char* WIFI_PASS = "PASSWORD";
 
 WebServer server(80);
 
