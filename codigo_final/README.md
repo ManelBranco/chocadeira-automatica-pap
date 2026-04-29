@@ -5,7 +5,9 @@ Esta pasta contém a versão final e estável até ver do código da Chocadeira 
 Atenção antes da utilização do código disponibilizado o utilizador deve alterar os dados relativos á ligação á internet e ao Blynk (devendo utilizar uma rede 2.4GHZ para maximar a compatibilidade).
 
 #define BLYNK_TEMPLATE_ID "ID do seu Template do Blynk"
+
 #define BLYNK_TEMPLATE_NAME "Nome do seu Template do Blynk"
+
 #define BLYNK_AUTH_TOKEN "Auth_Token do seu Dispositivo do Blynk"
 
 // ===================== WIFI =====================
